@@ -44,8 +44,8 @@ The general goal of the project is to use a software defined radio (BladeRF) to 
 # Homeworks
 There will be two homeworks that will help and prepare you for the project:
 
-- [HW1: OFDM](notebooks/A_ofdm_lab.ipynb): Introduction OFDM signal modulation. This homework is **graded**. 
-- [HW2: Mysterious Modulation](notebooks/B_modulation_schemes.ipynb): In this lab, you will be given 3 misterious signals based on common modulation schemes that you have studied in earlier notebooks. Your objective will be to positively identify them and then demodulate them and recover the "secret" message they contain. This homework is **graded**. 
+- [HW1: Modulation Schemes](notebooks/HW1_Modulation_Schemes.ipynb): In this lab, you will be given 3 misterious signals based on common modulation schemes that you have studied in earlier notebooks. Your objective will be to positively identify them and then demodulate them and recover the "secret" message they contain. This homework is **graded**.
+- [HW2: OFDM](notebooks/HW2_OFDM.ipynb): Introduction OFDM signal modulation. This homework is **graded**. 
 
 
 # General Info
